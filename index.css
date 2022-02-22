@@ -1,0 +1,258 @@
+
+header{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+}
+#images{
+    width: 100%;
+    height: 700px;
+}
+.menu ul{
+    width: 50%;
+    height: 65px;
+    float: right;
+    margin-right: 3%;
+
+}
+.menu li{
+    float: left;
+    list-style-type: none;
+    padding: 20px;
+    margin-right: 0;
+}
+.menu li:hover{
+    border-bottom: solid 4px yellow;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+.menu{
+    width: 98.5%;
+    position: absolute;
+    margin-top: 0%;
+    height: 80px;
+}
+.menu img{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.header h1{
+    position: absolute;
+    text-align: center;
+    margin-top: 18%;
+    width: 98.5%;
+    color: white;
+    font-size: 55px;
+}
+.header button{
+    padding: 1%;
+    position: absolute;
+    color: white;
+    background-color: #889ab5;
+    margin-left: 45%;
+    margin-top: 38%;
+}
+.bas {
+    width: 100%;
+    height: 220px;
+    background-color: #324968;
+    margin-top: 0%;
+    padding-top: 0%;
+    border: solid 1px #324968;
+}
+.bas p{
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    color: white;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+    margin-top: 5%;
+}
+.bas img{
+    margin-top: 3%;
+    width: 100%;
+
+}
+.article1{
+    background: no-repeat center center/cover url("images/home5.jpg");
+    width: 100%;
+    height: 380px;
+    background-attachment: fixed;
+}
+.article2{
+    float: right;
+    width: 50%;
+    height: 380px;
+
+}
+.contenu{
+    width: 47%;
+    float: left;
+    padding: 1%;
+    color: #727374;
+}
+.article2 button{
+    border: solid 1px gold;
+    padding: 1%;
+    margin-top: 4%;
+    color: #324968;
+    background-color: gold;
+}
+.article2 h1{
+    font-size: 40px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.article2 h2{
+    font-size: medium;
+    margin-top: 1%;
+    padding: 0%;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+    color: #727374;
+}
+.produit{
+    width: 96.5%;
+    height: 330px;
+    display: inline-block;
+    padding: 2%;
+    background-color: #fcfcfc;
+    border-bottom: solid 1px #607ba0;
+}
+.produit1{
+    display: inline-block;
+    float: left;
+    width: 15%;
+    margin-left: 4%;
+    padding-top: 2%;
+}
+.produit1 p{
+    font-size: 15px;
+    color: #919699;
+}
+.produit1:hover{
+    background-color: #e5edf1;
+    cursor: pointer;
+}
+.produit1 h4{
+    color: #607ba0;
+}
+.local{
+    width: 96.5%;
+    height: 300px;
+    display: block;
+    padding: 3%;
+    background-color: white;
+}
+.local1{
+    width: 30%;
+    float: left;
+    margin-top: 2%;
+    height: 250px;
+}
+.local1 img{
+    width: 90%;
+    padding-left: 2%;
+}
+.local1 a{
+    color: #607ba0;
+    text-decoration: none;
+    padding-left: 4%;
+}
+.local1 a:hover{
+    color: #607ba0;
+    text-decoration: underline;
+}
+.local1 h1{
+    text-align: right;
+    padding-right: 8%;
+    font-size: 45px;
+}
+.local1 p{
+    color: #919699;
+    margin-top: 10%;
+    padding-left: 4%;
+}
+#seul{
+    border-right: solid 2px #919699;
+    border-left: solid 2px #919699;
+}
+.left{
+    width: 55%;
+    background-color: gold;
+    height: 450px;
+    padding-left: 5%;
+}
+.fabrication{
+    background: no-repeat center center/cover url("images/home6.jpg");
+    height: 450px;
+    background-attachment: fixed;
+}
+.left h1{
+    font-size: 45px;
+    margin-top: 2%;
+}
+.fabrication1{
+    float: left;
+    width: 45%;
+    color: #919699;
+    padding-left: 3%;
+    margin-top: 5%;
+}
+.left p{
+    color: #607ba0;
+}
+.fabrication button{
+    padding: 3%;
+    color:#fff;
+    background-color:#324968;
+}
+.plus{
+    width: 30%;
+    float: right;
+    margin-top: 15%;
+    padding-left: 3%;
+}
+.propos{
+    width: 94.5%;
+    height: 300px;
+    padding: 3%;
+    background-color: #fcfcfc;
+}
+.propos1{
+    width: 20%;
+    float: left;
+    margin: 2%;
+}
+.propos1 li{
+    padding-bottom: 5%;
+    list-style-type: none;
+    color: #80858c;
+}
+.propos1 li:hover{
+    text-decoration: underline;
+}
+.propos1 h3{
+    color: #919699;
+}
+.pieds p{
+    text-align: center;
+    color: #80858c;
+    padding-top: 2%;
+}
+.pieds a{
+    text-decoration: none;
+    color: #80858c;
+}
+.pieds a:hover{
+    text-decoration: underline;
+}
+.pieds{
+    background-color: #e6edf1;
+    opacity: .5;
+    height: 80px;
+}
+footer{
+    width: 100%;
+}

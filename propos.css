@@ -1,0 +1,160 @@
+.header{
+    background: no-repeat center center/cover url("images/home7.jpg");
+    width: 100%;
+    height: 300px;
+    margin-top: 0;
+    padding-top: 0;
+}
+.menu ul{
+    width: 50%;
+    height: 65px;
+    float: right;
+    margin-right: 3%;
+
+}
+.menu li{
+    float: left;
+    list-style-type: none;
+    padding: 20px;
+    margin-right: 0;
+}
+.menu li:hover{
+    border-bottom: solid 4px yellow;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+.menu{
+    width: 98.5%;
+    margin-top: 0%;
+    height: 80px;
+}
+.menu img{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.header h1{
+    font-size: 55px;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+.tete{
+    width: 90%;
+    height: 180px;
+    background-color: yellow;
+    padding: 5%;
+}
+.tete h3{
+    color: #121e2d;
+    text-align: center;
+    word-spacing: 7px;
+}
+.tete img{
+    margin-left: 45%;
+}
+.histoire{
+    width: 90%;
+    border: solid 1px green;
+    height: 850px;
+    padding: 5%;
+}
+.article{
+    width: 40%;
+    float: left;
+    padding: 4%;
+}
+.article1{
+    float: left;
+    width: 45%;
+    padding: 2%;
+    color: #727374;
+
+}
+.article1 img{
+    width: 95%;
+    height: 150px;
+    padding-bottom: 8%;
+}
+.article h4{
+    color: #607ba0;
+}
+.article h1{
+    font-size: 50px;
+}
+.article h2{
+    font-size: 40px;
+}
+#seul{
+    border-right: solid 3px #727374;
+}
+.partenaire{
+    width: 100%;
+    height: 350px;
+    background-color: #324968;
+    margin-top: 0;
+}
+.partenaire h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0;
+    padding-top: 1%;
+
+}
+.partenaire p{
+    text-align: center;
+    color: white;
+    word-spacing: 5px;
+    font-size: 25px;
+    padding-top: 0;
+}
+.partenaire button{
+    padding: 1%;
+    background-color: yellow;
+    margin-left: 45%;
+    margin-top: 3%;
+}
+.propos{
+    width: 94.5%;
+    height: 300px;
+    padding: 3%;
+    background-color: #fcfcfc;
+}
+.propos1{
+    width: 20%;
+    float: left;
+    margin: 2%;
+}
+.propos1 li{
+    padding-bottom: 5%;
+    list-style-type: none;
+    color: #80858c;
+}
+.propos1 li:hover{
+    text-decoration: underline;
+}
+.propos1 h3{
+    color: #919699;
+}
+.pieds p{
+    text-align: center;
+    color: #80858c;
+    padding-top: 2%;
+}
+.pieds a{
+    text-decoration: none;
+    color: #80858c;
+}
+.pieds a:hover{
+    text-decoration: underline;
+}
+.pieds{
+    background-color: #e6edf1;
+    opacity: .5;
+    height: 80px;
+}
+footer{
+    width: 100%;
+}
